@@ -1,0 +1,5 @@
+# robots.txt for QuranicWords (https://quranicwords.vercel.app/)
+User-agent: *
+Allow: /
+
+Sitemap: https://quranicwords.vercel.app/sitemap.xml
