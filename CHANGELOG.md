@@ -55,7 +55,7 @@ Several internal test builds kept version name 1.0.0.
 - Same senses and highlights as the app; meanings load per language (first load 56% smaller).
 
 ### Store
-- Play Store listings, screenshots and feature graphics in all 8 languages.
+- Listings, screenshots and feature graphics in all 8 languages (`store/`).
 
 ## [1.0.0] - 2026-10-03: Verified curriculum, spaced review & gamification
 
