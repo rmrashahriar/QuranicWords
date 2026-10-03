@@ -48,12 +48,14 @@ PROFILE_README.md
 # R8 mapping exported for releases
 *-mapping.txt
 *-mapping.txt.gz
-store/release/
 
 # Generated release files (published on GitHub Releases, not in the tree)
 /build/
 /QuranicWords-v1.0.0.html
 # Private: Play Console answers, tester reports, local archive
-store/private/
 /reports/
 /_dev-archive/
+
+# Play Store assets and their generators stay on the maintainer's machine
+/store/
+/tools/store/

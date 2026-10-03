@@ -48,10 +48,10 @@ and Français**.
 > only as lesson content.
 
 <p align="center">
-  <img src="store/graphics/phone/en/02-word-in-its-ayah.png" width="200" alt="A word shown in its complete ayah" />
-  <img src="store/graphics/phone/en/03-learn-by-doing.png" width="200" alt="Quiz and matching exercises" />
-  <img src="store/graphics/phone/en/04-home-screen-widgets.png" width="200" alt="Home-screen widgets" />
-  <img src="store/graphics/phone/en/07-quran-fonts.png" width="200" alt="Seven Qur'an fonts" />
+  <img src="docs/screenshots/word-in-its-ayah.png" width="200" alt="A word shown in its complete ayah" />
+  <img src="docs/screenshots/learn-by-doing.png" width="200" alt="Quiz and matching exercises" />
+  <img src="docs/screenshots/home-screen-widgets.png" width="200" alt="Home-screen widgets" />
+  <img src="docs/screenshots/quran-fonts.png" width="200" alt="Seven Qur'an fonts" />
 </p>
 
 ---
@@ -163,7 +163,7 @@ It is also attached to every release as `QuranicWords-dataset-v1.0.0.zip`. See
 
 ## Rebuild it yourself (no coding needed)
 
-The complete source of the Android app, the web app, the content pipeline and the store assets
+The complete source of the Android app, the web app and the content pipeline
 is in this repository, so anyone can rebuild everything:
 
 1. **Just want the app?** Download the APK or the offline HTML from the
@@ -219,8 +219,6 @@ reference/word-by-word/ GTAF word-by-word sources (the 8 languages used)
 tools/pipeline/         reproducible content build, validator and tests
 tools/export/           web data, dataset, word pages, offline HTML dictionary
 tools/web/              site build, GitHub Pages deploy, smoke tests
-tools/store/            Play Store listing and screenshot generators
-store/                  Play Store listing texts and graphics (8 languages)
 docs/                   documentation
 ```
 
